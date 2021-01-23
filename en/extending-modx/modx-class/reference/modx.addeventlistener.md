@@ -18,7 +18,7 @@ boolean addEventListener (string $event, integer $pluginId)
 
 ## Example
 
-Add a Plugin with ID 2 to the Event 'OnChunkPrerender':
+Add a Plugin with ID 12 to the Event 'OnChunkPrerender':
 
 ``` php
 $modx->addEventListener('OnChunkPrerender',12);
